@@ -16,8 +16,7 @@ HTML / CSS / JavaScript / FullCalendar7.1.0 / PHP
 <dl>
     <dt>Todoクラス : </dt>
     <dt>メンバ変数 : </dt>
-        <dd>#count : 1から空いてる数値が見つかるまでインクリメント。</dd>
-        <dd>id : index番号に依存しない固有ID。countを設定。</dd>
+        <dd>id : index番号に依存しない固有ID</dd>
         <dd>title : Todoの見出し。</dd>
         <dd>completed : Todoの完了状態管理フラグ。初期状態はfalse。</dd>
         <dd>dueDate : String型の日付。"2026-09-25"形式。</dd>
